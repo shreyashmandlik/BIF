@@ -1,0 +1,10 @@
+Download pyrx
+Load protein 6m0j
+Create macromolecules of A protein 
+Load ligand in open bable download from pubchem ndg
+Minimize it
+Create ligand
+Select ligand and macromolecules 
+Run vina-forward
+Fit molecule in a cube the click run
+Done
